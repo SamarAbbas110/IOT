@@ -1,0 +1,7 @@
+We creating a telegram bot using python 
+
+1) step:- we search the botfather In telegram and make a own telegram bot
+2) step:- then We copy the Token 
+3) step:- Then Install the Telepot , Pip Install telepot
+4) step:- After that , written a python code 
+5) step:- Making a api and insert the Token for checking that the bot is working or not
